@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hadrien-bage-44b22a1a1/](https://www.linkedin.com/in/hadrien-bage-44b22a1a1/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[https://www.linkedin.com/in/hadrien-bage-44b22a1a1/](https://www.linkedin.com/in/hadrien-bage-44b22a1a1/)
 <p align="left">
 </p>
 
