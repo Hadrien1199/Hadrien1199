@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour and welcome I'm Hadrien</h1>
-<h3 align="center">A Data Scientist, aerospace enthusiast and graduate from Erasmus and Copenhagen Business School.</h3>
+<h1 align="left">Bonjour and welcome I'm Hadrien</h1>
+<h3 align="left">A Data Scientist, aerospace enthusiast and graduate from Erasmus and Copenhagen Business School.</h3>
 
 - 🔭 I’m currently working on **solAIre/sarcasm detection**
 
