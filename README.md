@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **solAIre/sarcasm detection**
 
-- 🔦 Currently learning **pytorch**
+- 🔦 Currently learning **Qiskit**
 
 - 💬 Love to discuss **Aerospace and Quantum Computing**
 
