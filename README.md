@@ -1,7 +1,7 @@
 <h1 align="left">Bonjour and welcome I'm Hadrien</h1>
 <h3 align="left">A Data Scientist, aerospace enthusiast and graduate from Erasmus and Copenhagen Business School.</h3>
 
-- 🔭 I’m currently working on **solAIre/sarcasm detection**
+- 🔭 I’m currently working on **ESA stuff**
 
 - 🔦 Currently learning **Qiskit**
 
